@@ -1,0 +1,32 @@
+########################################################################
+# Este archivo contiene una lista de comandos pip                      #
+# que instalan las versiones necesarias de paquetes                    #
+# dependientes para el proyecto.                                       #
+#                                                                      #
+# Ejecutar este comando para instalarlas:                              #
+# pip install -r requirements.txt                                      #
+#                                                                      #
+# Si quieres más info de esto:                                         #
+# https://www.freecodecamp.org/news/python-requirementstxt-explained/  #
+# O pregúntale a Copilot.                                              #
+#                                                                      #
+########################################################################
+
+# Python 3.8.20
+
+et-xmlfile==1.1.0
+flake8==3.8.3
+mccabe==0.6.1
+numpy==1.24.4
+openpyxl==3.1.5
+pandas==2.0.3
+pip==24.2
+pycodestyle==2.6.0
+pyflakes==2.2.0
+python-dateutil==2.9.0
+pytz==2024.2
+PyYAML==6.0.1
+setuptools==73.0.1
+six==1.16.0
+tzdata==2024.1
+wheel==0.44.0

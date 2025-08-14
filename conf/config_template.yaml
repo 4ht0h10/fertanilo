@@ -1,0 +1,45 @@
+########################################################
+#                                                      #
+#                 ATENCIÓN                             #
+#                                                      #
+#      Renombra éste fichero como "config.yaml"        #
+#      Y sustituye los valores que faltan  < >         #
+#                                                      #
+########################################################
+
+# Claves de acceso en entorno de Aceptación
+# establecidas para todos los usuarios de test
+#
+clavePortal: <clave secreta>
+claveGestiona: <la otra clave secreta>
+
+# Ficheros Excel con volcado de datos provenientes de SAP
+# Salida de los preprocesados
+# y lista negra o empleados reservados
+#
+ficheros:
+  # Salidos de SAP
+  exportSAP1: exportSAP1.xlsx
+  exportSAP2: exportSAP2.xlsx
+  # Después de el pre-procesado
+  empleados: EMPLEADOS.xlsx
+  anticipos: ANTICIPOS.xlsx
+  incidencias: INCIDENCIAS.xlsx
+  # Relación de empleados que no se deben usar
+  reservados: Empleados_203_Autom.xlsx
+
+# Used SQLite data base
+#
+database:
+  path: db
+  name: db_v20250306.db
+  create: crea_bd.sql
+  queries: queries.sql
+
+# Directorio donde están los ficheros fuente
+#
+inputDir: INPUT
+
+# Directorio donde poner los ficheros generados
+#
+outputDir: OUTPUT
