@@ -1,6 +1,6 @@
 <!-- TOC --><a name="generador-de-datos-de-prueba"></a>
 # GENERADOR DE DATOS DE PRUEBA  
-[![QATeam](https://img.shields.io/badge/Jos%C3%A9%20Luis%20QA%20Team-Approves-green)](https://www.once.es/)
+[![QATeam](https://img.shields.io/badge/Jos%C3%A9%20Luis%20QA%20Team-Approves-green)](https://www.python.org/)
 
 
 ## INDICE 
@@ -51,10 +51,7 @@ El esquema general se muestra en la siguiente figura:
 <!-- TOC --><a name="authors-qa-team"></a>
 ## Authors (QA Team)
 
-- [José Luis Pérez](mailto:joseluis.perez@once.es)
-- [Fernando Rodriguez](mailto:ferofe@once.es)
-- [Carmen Prats](mailto:mprpg@once.es)
-- [Antonio Marín](mailto:antomahe@once.es)
+- [Antonio Marín](mailto:4ht0h10@gmail.com)
 
 *******************************************************  
 <!-- TOC --><a name="instalación"></a>
@@ -177,7 +174,7 @@ Un ejemplo de fichero resultante:
 cuyo contenido es el siguiente:
 
 ```
-71698036T|Once1234|ONCEONCE|6.89|
+73698036T|Once1234|ONCEONCE|6.89|
 
 **** TRASOLVARIRPF-01: Solicitud de variación del porcentaje de retención de IRPF en nómina 
 
